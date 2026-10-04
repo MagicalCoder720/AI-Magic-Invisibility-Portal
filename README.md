@@ -9,13 +9,13 @@ Both hands create their own portals, anchored at each index fingertip.
 The thumb–index pinch distance controls each portal’s size in real time.
 Portals can take on different shapes: circle → hexagon → star.
 Inside each portal, you can apply 7 unique live filters:
-Reveal – classic invisibility (shows captured background)
-Swirl – localized warp distortion
-Thermal – heat‑map false color
-Pixelate – retro chunky pixel blocks
-Edge – neon edge outlines
-Mirror – horizontally mirrored live feed
-Drain – grayscale desaturation
+1.Reveal – classic invisibility (shows captured background)
+2.Swirl – localized warp distortion
+3.Thermal – heat‑map false color
+4.Pixelate – retro chunky pixel blocks
+5.Edge – neon edge outlines
+6.Mirror – horizontally mirrored live feed
+7.Drain – grayscale desaturation
 
 🔹 Controls:
 B → capture/recapture static background
